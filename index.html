@@ -16,15 +16,17 @@
     </div>
 
     <div class="container-fluid">
-        <div class="my-3">
-            <label>Wprowadź k: </label>
-            <input class="k-var text-center" type="number" name="kVar" min="0"/>
+        <div class="form-group row my-3">
+            <label class="col-1 offset-sm-1 col-form-label text-right">Wprowadź k: </label>
+            <div class="col-2">
+                <input class="k-var text-center form-control" type="number" name="kVar" min="0"/>
+            </div>
         </div>
 
-        <table class="matrix-container table table-striped table-bordered table-hover table-light text-center">
-            
-
+        <div class="table-responsive">
+            <table class="matrix-container table table-striped table-bordered table-hover table-light text-center">
         </div>
+        
     </div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" 
