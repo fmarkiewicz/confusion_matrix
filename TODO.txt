@@ -1,0 +1,6 @@
+-tworzenie thead, pierwszy element jest '#', tworzenie w osobnej petli reszty
+-tworzenie tbody, tr, dodanie inputu w kazdym polu td https://getbootstrap.com/docs/4.0/content/tables/
+-dodanie mapowanie w atrybutach mowiace o tym ktory to wiersz i kolumna
+-zmienianie wartosci z inputa do macierzy w pamieci
+-dodanie pól do statystyk pod kazda kolumna
+-wyliczenie statystyk
